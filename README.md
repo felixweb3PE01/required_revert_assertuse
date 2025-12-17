@@ -54,7 +54,7 @@ This repository is part of my **Solidity learning journey**, focused on:
 
 ---
 
-## 📌 Notes
+## Notes
 
 - This code is for **learning purposes only**
 - Not audited or intended for production use
