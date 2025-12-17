@@ -1,4 +1,4 @@
-# Solidity Error Handling – Day 6
+# Solidity Error Handling
 
 This repository contains my **Day 6 Solidity learning practice**, focused on understanding **basic error handling** in smart contracts.
 
